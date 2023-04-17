@@ -17,7 +17,7 @@ or
 
 (2) Click on the csv file -> click "download" -> right click on mouse and select "save as"
 
-Dataset description:
+Dataset Attributes:
 ---------------------
 
 You will mainly need the following four columns:
