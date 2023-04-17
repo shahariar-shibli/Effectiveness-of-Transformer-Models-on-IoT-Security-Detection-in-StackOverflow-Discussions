@@ -16,3 +16,16 @@ To download the csv file:
 or 
 
 (2) Click on the csv file -> click "download" -> right click on mouse and select "save as"
+
+Dataset description:
+---------------------
+
+You will mainly need the following four columns:
+
+(1) PostId: Id of the post in SO from where the sentence is taken
+
+(2) Sentence: Extracted iot related sentence
+
+(3) Security: Contains value 0 (Not security related) or 1 (security related)
+
+(4) Cleaned Sentence: Sentence after text pre-processing.
