@@ -12,7 +12,7 @@ Sentence-Level in Developer Textual Discussions"**
 *   Tensorflow
 *   scipy
 
-# Materical Used
+# Materials Used
 
 *   Mallet (http://mallet.cs.umass.edu/dist/mallet-2.0.8.zip)
 *   BERT pretrained model and tokenizer( https://huggingface.co/models)
