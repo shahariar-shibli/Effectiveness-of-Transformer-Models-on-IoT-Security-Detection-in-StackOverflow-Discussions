@@ -1,6 +1,3 @@
-# Basic Info
-This repository contains the implementation of **"An Empirical Study of IoT Security Aspects at
-Sentence-Level in Developer Textual Discussions"**
 # Requirements
 
 *   Python
